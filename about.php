@@ -6,6 +6,7 @@
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title>about</title>
 
+   
    <!-- swiper css link  -->
    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
 
@@ -22,7 +23,7 @@
 
 <section class="header">
 
-   <a href="home.php" class="logo">travel.</a>
+   <a href="home.php" class="logo">tour and travel</a>
 
    <nav class="navbar">
       <a href="home.php">home</a>
@@ -37,7 +38,7 @@
 
 <!-- header section ends -->
 
-<div class="heading" style="background:url(images/header-bg-1.png) no-repeat">
+<div class="heading" style="background:url(images/21.jpg) no-repeat">
    <h1>about us</h1>
 </div>
 
@@ -46,13 +47,13 @@
 <section class="about">
 
    <div class="image">
-      <img src="images/about-img.jpg" alt="">
+      <img src="images/20.jpg" alt="">
    </div>
 
    <div class="content">
       <h3>why choose us?</h3>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure numquam nulla iusto corporis dolor commodi libero, vitae obcaecati optio rerum ab culpa nesciunt, earum mollitia quasi ipsam non. Aliquid, iure.</p>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid rerum, delectus voluptate aliquam quaerat iusto repellendus error nulla ab atque.</p>
+      <p>We are a main online travel organization in America giving a ‘best as far as a class can tell with the objective to be Tour and Travel Planner’. Through our site, www.’Company Name’.com, our versatile applications, and our other related stages, recreation, and business voyagers can investigate, explore, analyze costs and book an extensive variety of administrations taking into account their movement needs.</p>
+
       <div class="icons-container">
          <div class="icons">
             <i class="fas fa-map"></i>
@@ -70,6 +71,29 @@
    </div>
 
 </section>
+
+<!-- Marquee TAGS -->
+<div class="container-fluid mt-5 text-center">
+<h1 class="heading-title"> our partners </h1>
+            </div>
+
+            <div class="container  mt-5">
+
+                <marquee width="100%" behavior="scroll">
+
+                    <a href=""><img src="images/11.jpg" height="100" width="100"></a>
+                    <a href=""><img src="images/16.jpg" height="100" width="100"></a>
+                    <a href=""><img src="images/13.jpg" height="100" width="100"></a>
+                    <a href=""><img src="images/14.jpg" height="100" width="100"></a>
+                    <a href=""><img src="images/15.jpg" height="100" width="100"></a>
+                    <a href=""><img src="images/19.jpg" height="100" width="100"></a>
+                    <a href=""><img src="images/18.webp" height="100" width="100"></a>
+
+                </marquee>
+
+            </div>
+<br>
+<br>
 
 <!-- about section ends -->
 
@@ -223,7 +247,7 @@
 
    </div>
 
-   <div class="credit"> created by <span>mr. web designer</span> | all rights reserved! </div>
+   
 
 </section>
 

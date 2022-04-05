@@ -6,6 +6,9 @@
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title>home</title>
 
+   
+
+
    <!-- swiper css link  -->
    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
 
@@ -134,7 +137,7 @@
 
    <div class="content">
       <h3>About us</h3>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita et, recusandae nobis fugit modi quibusdam ea assumenda, nulla quisquam repellat rem aliquid sequi maxime sapiente autem ipsum? Nobis, provident voluptate?</p>
+      <p>We are a main online travel organization in America giving a ‘best as far as a class can tell with the objective to be ‘ America ‘s Travel Planner’. Through our site, www.’Company Name’.com, our versatile applications, and our other related stages, recreation, and business voyagers can investigate, explore, analyze costs and book an extensive variety of administrations taking into account their movement needs.</p>
       <a href="about.php" class="btn">read more</a>
    </div>
 
@@ -227,6 +230,8 @@
    <div class="load-more"> <a href="package.php" class="btn">load more</a> </div>
 
 </section>
+<br>
+<br>
 
 <!-- home packages section ends -->
 
@@ -234,23 +239,138 @@
 
 <section class="home-offer">
    <div class="content">
-      <h3>upto 50% off</h3>
-      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure tempora assumenda, debitis aliquid nesciunt maiores quas! Magni cumque quaerat saepe!</p>
+      <h3>upto 60% off on first booking</h3>
+      <p>Book any domestic or international flight ticket & get flat 60% cashback (max cashback is 5000) in the form of ViaCash. How the offer works? If you book a flight ticket for ₹3,000, you will get a cashback of 1500 Viacash ; If you book flight ticket for ₹4,000, you will get a cashback of 2000 Viacash.</p>
       <a href="book.php" class="btn">book now</a>
    </div>
 </section>
 
 <!-- home offer section ends -->
 
+<br>
+<br>
+
+<!-- Marquee TAGS -->
+<div class="container-fluid mt-5 text-center">
+<h1 class="heading-title"> our partners </h1>
+            </div>
+
+            <div class="container  mt-5">
+
+                <marquee width="100%" behavior="scroll">
+
+                    <a href=""><img src="images/11.jpg" height="100" width="100"></a>
+                    <a href=""><img src="images/16.jpg" height="100" width="100"></a>
+                    <a href=""><img src="images/13.jpg" height="100" width="100"></a>
+                    <a href=""><img src="images/14.jpg" height="100" width="100"></a>
+                    <a href=""><img src="images/15.jpg" height="100" width="100"></a>
+                    <a href=""><img src="images/19.jpg" height="100" width="100"></a>
+                    <a href=""><img src="images/18.webp" height="100" width="100"></a>
+
+                </marquee>
+
+            </div>
+<br>
+<br>
+
+<!-- reviews section starts  -->
+
+<section class="reviews">
+
+   <h1 class="heading-title"> clients reviews </h1>
+
+   <div class="swiper reviews-slider">
+
+      <div class="swiper-wrapper">
+
+         <div class="swiper-slide slide">
+            <div class="stars">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+            </div>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus facilis laudantium magnam saepe magni ullam possimus laborum voluptas, veniam ipsum officiis quae doloribus minima ut quis. Molestiae qui distinctio possimus?</p>
+            <h3>john deo</h3>
+            <span>traveler</span>
+            <img src="images/pic-1.png" alt="">
+         </div>
+
+         <div class="swiper-slide slide">
+            <div class="stars">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+            </div>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus repellendus et suscipit optio similique totam aut laborum ullam sequi! In!</p>
+            <h3>john deo</h3>
+            <span>traveler</span>
+            <img src="images/pic-2.png" alt="">
+         </div>
+
+         <div class="swiper-slide slide">
+            <div class="stars">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+            </div>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus enim deserunt, ab at ea iste odio placeat doloribus eum dolores tempore obcaecati, dolore esse aperiam. Excepturi ad quo distinctio, dignissimos voluptate, dolores, saepe animi eum atque sint esse ab exercitationem!</p>
+            <h3>john deo</h3>
+            <span>traveler</span>
+            <img src="images/pic-3.png" alt="">
+         </div>
+
+         <div class="swiper-slide slide">
+            <div class="stars">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+            </div>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus recusandae cum quibusdam odio dignissimos nemo?</p>
+            <h3>john deo</h3>
+            <span>traveler</span>
+            <img src="images/pic-4.png" alt="">
+         </div>
+
+         <div class="swiper-slide slide">
+            <div class="stars">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+            </div>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus facilis laudantium magnam saepe magni ullam possimus laborum voluptas, veniam ipsum officiis quae doloribus minima ut quis. Molestiae qui distinctio possimus?</p>
+            <h3>john deo</h3>
+            <span>traveler</span>
+            <img src="images/pic-5.png" alt="">
+         </div>
+
+         <div class="swiper-slide slide">
+            <div class="stars">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+            </div>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus facilis laudantium magnam saepe magni ullam possimus laborum voluptas, veniam ipsum officiis quae doloribus minima ut quis. Molestiae qui distinctio possimus?</p>
+            <h3>john deo</h3>
+            <span>traveler</span>
+            <img src="images/pic-6.png" alt="">
+         </div>
+
+      </div>
+
+   </div>
+
+</section>
+
+<!-- reviews section ends -->
 
 
-
-
-
-
-
-
-
+ 
 
 
 
@@ -303,6 +423,7 @@
 </section>
 
 <!-- footer section ends -->
+
 
 
 
