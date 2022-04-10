@@ -22,7 +22,7 @@
 
 <section class="header">
 
-   <a href="home.php" class="logo">travel.</a>
+   <a href="home.php" class="logo"> tour and travel</a>
 
    <nav class="navbar">
       <a href="home.php">home</a>
@@ -37,7 +37,7 @@
 
 <!-- header section ends -->
 
-<div class="heading" style="background:url(images/header-bg-3.png) no-repeat">
+<div class="heading" style="background:url(images/34.jpg) no-repeat">
    <h1>book now</h1>
 </div>
 
@@ -134,8 +134,8 @@
          <h3>contact info</h3>
          <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
          <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
-         <a href="#"> <i class="fas fa-envelope"></i> shaikhanas@gmail.com </a>
-         <a href="#"> <i class="fas fa-map"></i> mumbai, india - 400104 </a>
+         <a href="#"> <i class="fas fa-envelope"></i> yash@gmail.com </a>
+         <a href="#"> <i class="fas fa-map"></i> delhi, india - 112233 </a>
       </div>
 
       <div class="box">
@@ -148,7 +148,7 @@
 
    </div>
 
-   <div class="credit"> created by <span>mr. web designer</span> | all rights reserved! </div>
+   
 
 </section>
 

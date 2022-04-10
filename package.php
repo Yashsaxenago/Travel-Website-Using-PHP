@@ -37,7 +37,7 @@
 
 <!-- header section ends -->
 
-<div class="heading" style="background:url(images/90.jpg) no-repeat">
+<div class="heading" style="background:url(images/44.jpg) no-repeat">
    <h1>packages</h1>
 </div>
 
@@ -102,7 +102,7 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-1.jpg" alt="">
+            <img src="images/as.webp" alt="">
          </div>
          <div class="content">
             <h3>India</h3>
@@ -172,8 +172,8 @@
          <h3>contact info</h3>
          <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
          <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
-         <a href="#"> <i class="fas fa-envelope"></i> shaikhanas@gmail.com </a>
-         <a href="#"> <i class="fas fa-map"></i> mumbai, india - 400104 </a>
+         <a href="#"> <i class="fas fa-envelope"></i> yash@gmail.com </a>
+         <a href="#"> <i class="fas fa-map"></i> delhi, india - 112233 </a>
       </div>
 
       <div class="box">

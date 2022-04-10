@@ -115,10 +115,10 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus facilis laudantium magnam saepe magni ullam possimus laborum voluptas, veniam ipsum officiis quae doloribus minima ut quis. Molestiae qui distinctio possimus?</p>
-            <h3>john deo</h3>
+            <p>Good value package but quite excruciating to book. Had to keep going backwards and forwards selecting different dates and rooms to see which were included in the "bula bubble" package as this wasn't immediately discernible. Flights sometimes included and other times not.</p>
+            <h3>Yash saxena</h3>
             <span>traveler</span>
-            <img src="images/pic-1.png" alt="">
+            <img src="images/31.jpg" alt="">
          </div>
 
          <div class="swiper-slide slide">
@@ -128,10 +128,10 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus repellendus et suscipit optio similique totam aut laborum ullam sequi! In!</p>
-            <h3>john deo</h3>
+            <p>Excellent! Very good service from beginning to end. Even with a COVID-related delay in the middle of it, Lisa stayed in contact with us and got us a reschedule with the utmost of ease. Thank you!</p>
+            <h3>ravidhar mishra</h3>
             <span>traveler</span>
-            <img src="images/pic-2.png" alt="">
+            <img src="images/33.jpg" alt="">
          </div>
 
          <div class="swiper-slide slide">
@@ -140,10 +140,10 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus enim deserunt, ab at ea iste odio placeat doloribus eum dolores tempore obcaecati, dolore esse aperiam. Excepturi ad quo distinctio, dignissimos voluptate, dolores, saepe animi eum atque sint esse ab exercitationem!</p>
-            <h3>john deo</h3>
+            <p>Kristy was extremely helpful ! Any questions we had were answered very quickly via email or phone call. Not my first time using travel online and definitely NOT my last ! Lisa stayed in contact with us and got us a reschedule with the utmost of ease.Lisa stayed in contact with us Thank you!</p>
+            <h3>Jyoti yadav</h3>
             <span>traveler</span>
-            <img src="images/pic-3.png" alt="">
+            <img src="images/32.webp" alt="">
          </div>
 
          <div class="swiper-slide slide">
@@ -157,7 +157,7 @@
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus recusandae cum quibusdam odio dignissimos nemo?</p>
             <h3>john deo</h3>
             <span>traveler</span>
-            <img src="images/pic-4.png" alt="">
+            <img src="images/33.jpg" alt="">
          </div>
 
          <div class="swiper-slide slide">
@@ -169,7 +169,7 @@
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus facilis laudantium magnam saepe magni ullam possimus laborum voluptas, veniam ipsum officiis quae doloribus minima ut quis. Molestiae qui distinctio possimus?</p>
             <h3>john deo</h3>
             <span>traveler</span>
-            <img src="images/pic-5.png" alt="">
+            <img src="images/p" alt="">
          </div>
 
          <div class="swiper-slide slide">
@@ -233,8 +233,8 @@
          <h3>contact info</h3>
          <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
          <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
-         <a href="#"> <i class="fas fa-envelope"></i> shaikhanas@gmail.com </a>
-         <a href="#"> <i class="fas fa-map"></i> mumbai, india - 400104 </a>
+         <a href="#"> <i class="fas fa-envelope"></i> yash@gmail.com </a>
+         <a href="#"> <i class="fas fa-map"></i> delhi, india - 112233 </a>
       </div>
 
       <div class="box">
